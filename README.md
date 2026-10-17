@@ -1,2 +1,2 @@
-# Theodia Playlists Podcasts
+# Theodia Podcasts
 
