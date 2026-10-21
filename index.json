@@ -1,97 +1,82 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T02:46:36.350Z",
+  "updatedAt": "2026-10-21T03:45:28.819Z",
   "packages": [
     {
       "id": "daily-audio-bible",
       "type": "podcast-feed",
+      "path": "Daily-Audio-Bible.podcast.zip",
       "name": "Daily Audio Bible",
-      "feedUrl": "https://feeds.feedburner.com/dailyaudiobible",
-      "title": "1 Year Daily Audio Bible",
       "description": "A daily Bible-in-a-year podcast with the Scripture read aloud and a brief commentary to open each day.",
-      "imageUrl": "https://dabproductionstorage.blob.core.windows.net/dab-images/e71ffcc8-a062-47be-a7cf-759f6db78b7ddaily-audio-bible_dab.jpg",
       "author": "Daily Audio Bible",
       "category": "Podcast",
+      "version": "1.0.0",
       "tags": [
         "bible",
         "daily",
         "scripture-reading"
-      ],
-      "version": "1.0.0",
-      "path": "Daily-Audio-Bible.podcast.zip"
+      ]
     },
     {
       "id": "daily-audio-bible-chronological",
       "type": "podcast-feed",
+      "path": "Daily-Audio-Bible-Chronological.podcast.zip",
       "name": "Daily Audio Bible Chronological",
-      "feedUrl": "https://feeds.feedburner.com/dailyaudiobiblechronological",
-      "title": "1 Year Daily Audio Bible Chronological",
       "description": "The same daily Bible-in-a-year readings, ordered chronologically through the biblical story.",
-      "imageUrl": "https://dabproductionstorage.blob.core.windows.net/dab-images/86b7877c-06bb-47de-bfca-04953ad30b88dab-chronological_chronological.jpg",
       "author": "Daily Audio Bible",
       "category": "Podcast",
+      "version": "1.0.0",
       "tags": [
         "bible",
         "daily",
         "chronological"
-      ],
-      "version": "1.0.0",
-      "path": "Daily-Audio-Bible-Chronological.podcast.zip"
+      ]
     },
     {
       "id": "world-english-bible-podcast",
       "type": "podcast-feed",
+      "path": "World-English-Bible-Podcast.podcast.zip",
       "name": "World English Bible Podcast",
-      "feedUrl": "https://www.spreaker.com/show/7179091/episodes/feed",
-      "title": "Bible (WEB): World English Bible (Complete)",
       "description": "Public-domain audio of the World English Bible, read chapter by chapter and organized by book.",
-      "imageUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/edd654543534f715dd5d46eac142005e.jpg",
       "author": "World English Bible",
       "category": "Podcast",
+      "version": "1.0.0",
       "tags": [
         "bible",
         "public-domain",
         "world-english-bible"
-      ],
-      "version": "1.0.0",
-      "path": "World-English-Bible-Podcast.podcast.zip"
+      ]
     },
     {
       "id": "sermonaudio-daily-sermon",
       "type": "podcast-feed",
+      "path": "Sermonaudio-Daily-Sermon.podcast.zip",
       "name": "SermonAudio Daily Sermon",
-      "feedUrl": "https://www.sermonaudio.com/rss_special.asp?type=daily",
-      "title": "SermonAudio: Daily Devotional",
       "description": "A daily Christianity podcast drawing on thousands of sermon episodes from the SermonAudio library.",
-      "imageUrl": "https://media.sermonaudio.com/images/web/images/sermonaudio-new-combo2-1400.jpg",
       "author": "SermonAudio",
       "category": "Podcast",
+      "version": "1.0.0",
       "tags": [
         "sermons",
         "daily",
         "devotional"
-      ],
-      "version": "1.0.0",
-      "path": "Sermonaudio-Daily-Sermon.podcast.zip"
+      ]
     },
     {
       "id": "renewing-your-mind-daily",
       "type": "podcast-feed",
+      "path": "Renewing-Your-Mind-Daily.podcast.zip",
       "name": "Renewing Your Mind Daily",
-      "feedUrl": "https://renewingyourmind.ligonier.org/rss",
-      "title": "Renewing Your Mind",
       "description": "Daily Reformed teaching from Ligonier Ministries, originally featuring R. C. Sproul.",
-      "imageUrl": "https://static.libsyn.com/p/assets/2/0/1/d/201d49eea665b33927a2322813b393ee/3000x3000_RYM_2024_Subsplash_Asset_low_res_500kb.jpg",
       "author": "Ligonier Ministries",
       "category": "Podcast",
+      "version": "1.0.0",
       "tags": [
         "sermons",
         "daily",
         "reformed",
         "ligonier"
-      ],
-      "version": "1.0.0",
-      "path": "Renewing-Your-Mind-Daily.podcast.zip"
+      ]
     }
   ]
 }
