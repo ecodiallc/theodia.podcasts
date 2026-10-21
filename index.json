@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T03:45:28.819Z",
+  "updatedAt": "2026-10-21T23:52:21.932Z",
   "packages": [
     {
       "id": "daily-audio-bible",
@@ -76,6 +76,86 @@
         "daily",
         "reformed",
         "ligonier"
+      ]
+    },
+    {
+      "id": "solid-joys-daily-devotional",
+      "type": "podcast-feed",
+      "path": "Solid-Joys-Daily-Devotional.podcast.zip",
+      "name": "Solid Joys Daily Devotional",
+      "description": "A short, substantive daily devotional to feed your joy in Jesus, written by D. A. Carson.",
+      "author": "Desiring God",
+      "category": "Podcast",
+      "version": "1.0.0",
+      "tags": [
+        "devotional",
+        "daily",
+        "carson",
+        "desiring-god"
+      ]
+    },
+    {
+      "id": "bibleproject",
+      "type": "podcast-feed",
+      "path": "Bibleproject.podcast.zip",
+      "name": "BibleProject",
+      "description": "In-depth conversations about the Bible and theology, a companion to the BibleProject videos.",
+      "author": "BibleProject",
+      "category": "Podcast",
+      "version": "1.0.0",
+      "tags": [
+        "bible",
+        "theology",
+        "study",
+        "scripture-reading"
+      ]
+    },
+    {
+      "id": "sermon-brainwave",
+      "type": "podcast-feed",
+      "path": "Sermon-Brainwave.podcast.zip",
+      "name": "Sermon Brainwave from Working Preacher",
+      "description": "A weekly conversation with Luther Seminary faculty on the upcoming Revised Common Lectionary readings.",
+      "author": "Working Preacher from Luther Seminary",
+      "category": "Podcast",
+      "version": "1.0.0",
+      "tags": [
+        "sermons",
+        "lectionary",
+        "exegesis",
+        "luther-seminary"
+      ]
+    },
+    {
+      "id": "gospelbound",
+      "type": "podcast-feed",
+      "path": "Gospelbound.podcast.zip",
+      "name": "Gospelbound",
+      "description": "Collin Hansen interviews guests about books, ideas, and living by the gospel in a post-Christian culture.",
+      "author": "The Gospel Coalition",
+      "category": "Podcast",
+      "version": "1.0.0",
+      "tags": [
+        "theology",
+        "culture",
+        "interview",
+        "gospel-coalition"
+      ]
+    },
+    {
+      "id": "pastors-talk",
+      "type": "podcast-feed",
+      "path": "Pastors-Talk.podcast.zip",
+      "name": "Pastors Talk",
+      "description": "A weekly conversation between Jonathan Leeman and Mark Dever about practical Christian life and pastoral ministry.",
+      "author": "9Marks",
+      "category": "Podcast",
+      "version": "1.0.0",
+      "tags": [
+        "ministry",
+        "pastoral",
+        "practical",
+        "9marks"
       ]
     }
   ]
