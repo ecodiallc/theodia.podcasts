@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T00:00:00.000Z",
+  "updatedAt": "2026-10-21T02:46:36.350Z",
   "packages": [
     {
       "id": "daily-audio-bible",
@@ -17,7 +17,8 @@
         "daily",
         "scripture-reading"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "path": "Daily-Audio-Bible.podcast.zip"
     },
     {
       "id": "daily-audio-bible-chronological",
@@ -34,7 +35,8 @@
         "daily",
         "chronological"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "path": "Daily-Audio-Bible-Chronological.podcast.zip"
     },
     {
       "id": "world-english-bible-podcast",
@@ -51,7 +53,8 @@
         "public-domain",
         "world-english-bible"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "path": "World-English-Bible-Podcast.podcast.zip"
     },
     {
       "id": "sermonaudio-daily-sermon",
@@ -68,7 +71,8 @@
         "daily",
         "devotional"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "path": "Sermonaudio-Daily-Sermon.podcast.zip"
     },
     {
       "id": "renewing-your-mind-daily",
@@ -86,7 +90,8 @@
         "reformed",
         "ligonier"
       ],
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "path": "Renewing-Your-Mind-Daily.podcast.zip"
     }
   ]
 }
