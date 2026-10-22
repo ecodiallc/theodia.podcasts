@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T23:52:21.932Z",
+  "updatedAt": "2026-10-22T00:28:56.867Z",
   "packages": [
     {
       "id": "daily-audio-bible",
@@ -156,6 +156,86 @@
         "pastoral",
         "practical",
         "9marks"
+      ]
+    },
+    {
+      "id": "word-on-fire-show",
+      "type": "podcast-feed",
+      "path": "Word-On-Fire-Show.podcast.zip",
+      "name": "The Word on Fire",
+      "description": "Bishop Robert Barron on the Catholic faith and culture: Scripture, the saints, and the life of the Church.",
+      "author": "Bishop Robert Barron",
+      "category": "Podcast",
+      "version": "1.0.0",
+      "tags": [
+        "catholic",
+        "theology",
+        "culture",
+        "scripture-reading"
+      ]
+    },
+    {
+      "id": "pints-with-aquinas",
+      "type": "podcast-feed",
+      "path": "Pints-With-Aquinas.podcast.zip",
+      "name": "Pints With Aquinas",
+      "description": "Long-form conversations on Catholic doctrine and culture with Matt Fradd: Thomistic theology, the sacraments, and living the faith today.",
+      "author": "Matt Fradd",
+      "category": "Podcast",
+      "version": "1.0.0",
+      "tags": [
+        "catholic",
+        "theology",
+        "philosophy",
+        "discussion"
+      ]
+    },
+    {
+      "id": "daily-orthodox-scriptures",
+      "type": "podcast-feed",
+      "path": "Daily-Orthodox-Scriptures.podcast.zip",
+      "name": "Daily Orthodox Scriptures",
+      "description": "A year-long reading through the Bible, read aloud with brief commentary in the Orthodox tradition.",
+      "author": "Ancient Faith Ministries",
+      "category": "Podcast",
+      "version": "1.0.0",
+      "tags": [
+        "orthodox",
+        "bible",
+        "daily",
+        "scripture-reading"
+      ]
+    },
+    {
+      "id": "lord-of-spirits",
+      "type": "podcast-feed",
+      "path": "Lord-Of-Spirits.podcast.zip",
+      "name": "The Lord of Spirits",
+      "description": "Fr. Andrew Stephen Damick and Fr. Stephen De Young explore the Orthodox understanding of the seen and unseen world.",
+      "author": "Fr. Andrew Stephen Damick and Fr. Stephen De Young",
+      "category": "Podcast",
+      "version": "1.0.0",
+      "tags": [
+        "orthodox",
+        "theology",
+        "spirituality",
+        "discussion"
+      ]
+    },
+    {
+      "id": "kmtt-torah-podcast",
+      "type": "podcast-feed",
+      "path": "Kmtt-Torah-Podcast.podcast.zip",
+      "name": "KMTT - the Torah Podcast",
+      "description": "A 30 to 40 minute Torah lecture every working day from Yeshivat Har Etzion in Jerusalem.",
+      "author": "Yeshivat Har Etzion",
+      "category": "Podcast",
+      "version": "1.0.0",
+      "tags": [
+        "jewish",
+        "torah",
+        "daily",
+        "talmud"
       ]
     }
   ]

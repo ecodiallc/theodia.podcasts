@@ -12,6 +12,11 @@
 | `sermon-brainwave`                | Sermon Brainwave from Working Preacher |
 | `gospelbound`                     | Gospelbound                            |
 | `pastors-talk`                    | Pastors Talk                           |
+| `word-on-fire-show`               | The Word on Fire                       |
+| `pints-with-aquinas`              | Pints With Aquinas                     |
+| `daily-orthodox-scriptures`       | Daily Orthodox Scriptures               |
+| `lord-of-spirits`                 | The Lord of Spirits                    |
+| `kmtt-torah-podcast`              | KMTT - the Torah Podcast               |
 
 ## Sources
 
@@ -25,3 +30,8 @@
 - `sermon-brainwave`: Weekly conversations with Luther Seminary faculty on the Revised Common Lectionary readings, from [Working Preacher](https://www.workingpreacher.org/); RSS at [Captivate](https://feeds.captivate.fm/sermon-brainwave-from-working-preacher/).
 - `gospelbound`: Collin Hansen interviews guests about books, ideas, and the gospel in a post-Christian culture, for [The Gospel Coalition](https://www.thegospelcoalition.org/podcasts/gospelbound/); RSS at [Simplecast](https://feeds.simplecast.com/FSKZVjpz).
 - `pastors-talk`: A weekly conversation between Jonathan Leeman and Mark Dever about practical Christian life and pastoral ministry, from [9Marks](https://www.9marks.org/podcast/pastors-talk/); RSS at [Transistor](https://feeds.transistor.fm/pastors-talk-a-podcast-by-9marks).
+- `word-on-fire-show`: Bishop Robert Barron on the Catholic faith and culture, from [Word on Fire](https://wordonfire.org/); RSS at [Libsyn](https://rss.libsyn.com/shows/71279/destinations/302449.xml).
+- `pints-with-aquinas`: Matt Fradd on Catholic doctrine and culture, from [Pints With Aquinas](https://pintswithaquinas.com/); RSS at [Megaphone](https://feeds.megaphone.fm/BVDWV3128780668).
+- `daily-orthodox-scriptures`: A year-long reading through the Bible with brief commentary, from [Ancient Faith](https://www.ancientfaith.com/podcasts/dailyscriptures); RSS at [feeds.ancientfaith.com](https://feeds.ancientfaith.com/DailyOrthodoxScriptures/).
+- `lord-of-spirits`: Fr. Andrew Stephen Damick and Fr. Stephen De Young on the Orthodox understanding of the seen and unseen world, from [Ancient Faith](https://www.ancientfaith.com/podcasts/lordofspirits); RSS at [feeds.ancientfaith.com](https://feeds.ancientfaith.com/TheLordOfSpirits/).
+- `kmtt-torah-podcast`: Daily Torah lectures from Yeshivat Har Etzion in Jerusalem, from [KMTT](https://kmtt.libsyn.com/); RSS at [Libsyn](https://rss.libsyn.com/shows/18464/destinations/12657.xml).
