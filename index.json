@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T01:35:38.197Z",
+  "updatedAt": "2026-10-22T01:49:57.985Z",
   "packages": [
     {
       "id": "daily-audio-bible",
@@ -15,7 +15,8 @@
         "bible",
         "daily",
         "scripture-reading"
-      ]
+      ],
+      "size": 455
     },
     {
       "id": "daily-audio-bible-chronological",
@@ -30,7 +31,8 @@
         "bible",
         "daily",
         "chronological"
-      ]
+      ],
+      "size": 488
     },
     {
       "id": "world-english-bible-podcast",
@@ -45,7 +47,8 @@
         "bible",
         "public-domain",
         "world-english-bible"
-      ]
+      ],
+      "size": 494
     },
     {
       "id": "sermonaudio-daily-sermon",
@@ -60,7 +63,8 @@
         "sermons",
         "daily",
         "devotional"
-      ]
+      ],
+      "size": 436
     },
     {
       "id": "renewing-your-mind-daily",
@@ -76,7 +80,8 @@
         "daily",
         "reformed",
         "ligonier"
-      ]
+      ],
+      "size": 495
     },
     {
       "id": "solid-joys-daily-devotional",
@@ -92,7 +97,8 @@
         "daily",
         "carson",
         "desiring-god"
-      ]
+      ],
+      "size": 450
     },
     {
       "id": "bibleproject",
@@ -108,7 +114,8 @@
         "theology",
         "study",
         "scripture-reading"
-      ]
+      ],
+      "size": 455
     },
     {
       "id": "sermon-brainwave",
@@ -124,7 +131,8 @@
         "lectionary",
         "exegesis",
         "luther-seminary"
-      ]
+      ],
+      "size": 463
     },
     {
       "id": "gospelbound",
@@ -140,7 +148,8 @@
         "culture",
         "interview",
         "gospel-coalition"
-      ]
+      ],
+      "size": 487
     },
     {
       "id": "pastors-talk",
@@ -156,7 +165,8 @@
         "pastoral",
         "practical",
         "9marks"
-      ]
+      ],
+      "size": 572
     },
     {
       "id": "word-on-fire-show",
@@ -172,7 +182,8 @@
         "theology",
         "culture",
         "scripture-reading"
-      ]
+      ],
+      "size": 477
     },
     {
       "id": "pints-with-aquinas",
@@ -188,7 +199,8 @@
         "theology",
         "philosophy",
         "discussion"
-      ]
+      ],
+      "size": 550
     },
     {
       "id": "daily-orthodox-scriptures",
@@ -204,7 +216,8 @@
         "bible",
         "daily",
         "scripture-reading"
-      ]
+      ],
+      "size": 444
     },
     {
       "id": "lord-of-spirits",
@@ -220,7 +233,8 @@
         "theology",
         "spirituality",
         "discussion"
-      ]
+      ],
+      "size": 439
     },
     {
       "id": "kmtt-torah-podcast",
@@ -236,7 +250,8 @@
         "torah",
         "daily",
         "talmud"
-      ]
+      ],
+      "size": 450
     },
     {
       "id": "just-thinking",
@@ -252,7 +267,8 @@
         "questions",
         "science",
         "evangelism"
-      ]
+      ],
+      "size": 522
     },
     {
       "id": "apologetics-live",
@@ -267,7 +283,8 @@
         "apologetics",
         "questions",
         "teaching"
-      ]
+      ],
+      "size": 436
     },
     {
       "id": "in-the-arena",
@@ -283,7 +300,8 @@
         "philosophy",
         "debate",
         "resurrection"
-      ]
+      ],
+      "size": 408
     },
     {
       "id": "contending-for-truth",
@@ -299,7 +317,8 @@
         "philosophy",
         "theology",
         "bible"
-      ]
+      ],
+      "size": 439
     },
     {
       "id": "jimmy-akin-podcast",
@@ -315,7 +334,8 @@
         "catholic",
         "questions",
         "theology"
-      ]
+      ],
+      "size": 414
     }
   ]
 }

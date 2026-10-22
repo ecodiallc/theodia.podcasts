@@ -23,6 +23,10 @@
 | `contending-for-truth`            | Contending for Truth                   |
 | `jimmy-akin-podcast`              | The Jimmy Akin Podcast                 |
 
+`index.json` is the authoritative catalog — it is what the app reads, and the table above is a
+human-readable mirror of it. Each entry names the `.podcast.zip` archive that carries the feed
+the app subscribes to; the archive's payload holds the feed URL and the show artwork.
+
 ## Sources
 
 - `daily-audio-bible`: Free daily Scripture readings with commentary from [Daily Audio Bible](https://dailyaudiobible.com/); RSS via [FeedBurner](https://feeds.feedburner.com/dailyaudiobible).
