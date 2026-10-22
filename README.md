@@ -17,6 +17,11 @@
 | `daily-orthodox-scriptures`       | Daily Orthodox Scriptures               |
 | `lord-of-spirits`                 | The Lord of Spirits                    |
 | `kmtt-torah-podcast`              | KMTT - the Torah Podcast               |
+| `just-thinking`                   | Just Thinking                          |
+| `apologetics-live`                | Apologetics Live                       |
+| `in-the-arena`                    | In the Arena                           |
+| `contending-for-truth`            | Contending for Truth                   |
+| `jimmy-akin-podcast`              | The Jimmy Akin Podcast                 |
 
 ## Sources
 
@@ -35,3 +40,8 @@
 - `daily-orthodox-scriptures`: A year-long reading through the Bible with brief commentary, from [Ancient Faith](https://www.ancientfaith.com/podcasts/dailyscriptures); RSS at [feeds.ancientfaith.com](https://feeds.ancientfaith.com/DailyOrthodoxScriptures/).
 - `lord-of-spirits`: Fr. Andrew Stephen Damick and Fr. Stephen De Young on the Orthodox understanding of the seen and unseen world, from [Ancient Faith](https://www.ancientfaith.com/podcasts/lordofspirits); RSS at [feeds.ancientfaith.com](https://feeds.ancientfaith.com/TheLordOfSpirits/).
 - `kmtt-torah-podcast`: Daily Torah lectures from Yeshivat Har Etzion in Jerusalem, from [KMTT](https://kmtt.libsyn.com/); RSS at [Libsyn](https://rss.libsyn.com/shows/18464/destinations/12657.xml).
+- `just-thinking`: Real questions about faith, science, and God answered by Darrell Harrison and Virgil Walker, from [Ravi Zacharias International Ministries](https://justthinking.me/); RSS at [Anchor](https://anchor.fm/s/3463c2f0/podcast/rss).
+- `apologetics-live`: Listener questions and apologetics teaching with Andrew Rappaport, from [Striving for Eternity](https://strivingforeternity.org/); RSS at [Captivate](https://feeds.captivate.fm/apologetics-live/).
+- `in-the-arena`: The debates and lectures of Dr. William Lane Craig on God and the resurrection, from [Reasonable Faith](https://www.reasonablefaith.org/); RSS at [Blubrry](https://feeds.blubrry.com/feeds/inthearena.xml).
+- `contending-for-truth`: Dr. Scott Johnson defending the Christian faith with Scripture and logic, from [Contending for Truth](https://www.contendingfortruth.com/); RSS at [contendingfortruth.com](https://www.contendingfortruth.com/feed/podcast).
+- `jimmy-akin-podcast`: Jimmy Akin on Catholic apologetics, from [Catholic Answers](https://www.catholic.com/tjap); RSS at [catholic.com](https://www.catholic.com/audio/tjap/podcast).

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T00:28:56.867Z",
+  "updatedAt": "2026-10-22T01:35:38.197Z",
   "packages": [
     {
       "id": "daily-audio-bible",
@@ -236,6 +236,85 @@
         "torah",
         "daily",
         "talmud"
+      ]
+    },
+    {
+      "id": "just-thinking",
+      "type": "podcast-feed",
+      "path": "Just-Thinking.podcast.zip",
+      "name": "Just Thinking",
+      "description": "Real questions about faith, science, and God, answered carefully and warmly by Darrell Harrison and Virgil Walker for Ravi Zacharias International Ministries.",
+      "author": "Ravi Zacharias International Ministries",
+      "category": "Podcast",
+      "version": "1.0.0",
+      "tags": [
+        "apologetics",
+        "questions",
+        "science",
+        "evangelism"
+      ]
+    },
+    {
+      "id": "apologetics-live",
+      "type": "podcast-feed",
+      "path": "Apologetics-Live.podcast.zip",
+      "name": "Apologetics Live",
+      "description": "Andrew Rappaport answers listener questions and teaches the method of apologetics in long, unhurried sessions.",
+      "author": "Andrew Rappaport",
+      "category": "Podcast",
+      "version": "1.0.0",
+      "tags": [
+        "apologetics",
+        "questions",
+        "teaching"
+      ]
+    },
+    {
+      "id": "in-the-arena",
+      "type": "podcast-feed",
+      "path": "In-The-Arena.podcast.zip",
+      "name": "In the Arena",
+      "description": "The debates and lectures of Dr. William Lane Craig on the existence of God and the resurrection of Jesus.",
+      "author": "Dr. William Lane Craig",
+      "category": "Podcast",
+      "version": "1.0.0",
+      "tags": [
+        "apologetics",
+        "philosophy",
+        "debate",
+        "resurrection"
+      ]
+    },
+    {
+      "id": "contending-for-truth",
+      "type": "podcast-feed",
+      "path": "Contending-For-Truth.podcast.zip",
+      "name": "Contending for Truth",
+      "description": "Dr. Scott Johnson on defending the Christian faith: Scripture, logic, and the modern skeptical challenge.",
+      "author": "Dr. Scott Johnson",
+      "category": "Podcast",
+      "version": "1.0.0",
+      "tags": [
+        "apologetics",
+        "philosophy",
+        "theology",
+        "bible"
+      ]
+    },
+    {
+      "id": "jimmy-akin-podcast",
+      "type": "podcast-feed",
+      "path": "Jimmy-Akin-Podcast.podcast.zip",
+      "name": "The Jimmy Akin Podcast",
+      "description": "Jimmy Akin on Catholic apologetics: the Bible, the saints, and the objections he is most often asked about.",
+      "author": "Catholic Answers",
+      "category": "Podcast",
+      "version": "1.0.0",
+      "tags": [
+        "apologetics",
+        "catholic",
+        "questions",
+        "theology"
       ]
     }
   ]
