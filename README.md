@@ -1,31 +1,32 @@
 # Theodia Podcasts
 
-| ID                                | Name                                   |
-| --------------------------------- | -------------------------------------- |
-| `daily-audio-bible`               | Daily Audio Bible                      |
-| `daily-audio-bible-chronological` | Daily Audio Bible Chronological        |
-| `world-english-bible-podcast`     | World English Bible Podcast            |
-| `sermonaudio-daily-sermon`        | SermonAudio Daily Sermon               |
-| `renewing-your-mind-daily`        | Renewing Your Mind Daily               |
-| `solid-joys-daily-devotional`     | Solid Joys Daily Devotional            |
-| `bibleproject`                    | BibleProject                           |
-| `sermon-brainwave`                | Sermon Brainwave from Working Preacher |
-| `gospelbound`                     | Gospelbound                            |
-| `pastors-talk`                    | Pastors Talk                           |
-| `word-on-fire-show`               | The Word on Fire                       |
-| `pints-with-aquinas`              | Pints With Aquinas                     |
-| `daily-orthodox-scriptures`       | Daily Orthodox Scriptures               |
-| `lord-of-spirits`                 | The Lord of Spirits                    |
-| `kmtt-torah-podcast`              | KMTT - the Torah Podcast               |
-| `just-thinking`                   | Just Thinking                          |
-| `apologetics-live`                | Apologetics Live                       |
-| `in-the-arena`                    | In the Arena                           |
-| `contending-for-truth`            | Contending for Truth                   |
-| `jimmy-akin-podcast`              | The Jimmy Akin Podcast                 |
+`index.json` is the authoritative catalog — it is what the app reads, and the
+table below is a human-readable mirror of it. Each entry names the
+`.podcast.zip` archive that carries the feed the app subscribes to; the
+archive's payload holds the feed URL and the show artwork.
 
-`index.json` is the authoritative catalog — it is what the app reads, and the table above is a
-human-readable mirror of it. Each entry names the `.podcast.zip` archive that carries the feed
-the app subscribes to; the archive's payload holds the feed URL and the show artwork.
+| ID | Name |
+| --- | ---- |
+| `daily-audio-bible` | Daily Audio Bible |
+| `daily-audio-bible-chronological` | Daily Audio Bible Chronological |
+| `world-english-bible-podcast` | World English Bible Podcast |
+| `sermonaudio-daily-sermon` | SermonAudio Daily Sermon |
+| `renewing-your-mind-daily` | Renewing Your Mind Daily |
+| `solid-joys-daily-devotional` | Solid Joys Daily Devotional |
+| `bibleproject` | BibleProject |
+| `sermon-brainwave` | Sermon Brainwave from Working Preacher |
+| `gospelbound` | Gospelbound |
+| `pastors-talk` | Pastors Talk |
+| `word-on-fire-show` | The Word on Fire |
+| `pints-with-aquinas` | Pints With Aquinas |
+| `daily-orthodox-scriptures` | Daily Orthodox Scriptures |
+| `lord-of-spirits` | The Lord of Spirits |
+| `kmtt-torah-podcast` | KMTT - the Torah Podcast |
+| `just-thinking` | Just Thinking |
+| `apologetics-live` | Apologetics Live |
+| `in-the-arena` | In the Arena |
+| `contending-for-truth` | Contending for Truth |
+| `jimmy-akin-podcast` | The Jimmy Akin Podcast |
 
 ## Sources
 
