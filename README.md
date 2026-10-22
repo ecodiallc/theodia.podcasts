@@ -1,10 +1,5 @@
 # Theodia Podcasts
 
-`index.json` is the authoritative catalog — it is what the app reads, and the
-table below is a human-readable mirror of it. Each entry names the
-`.podcast.zip` archive that carries the feed the app subscribes to; the
-archive's payload holds the feed URL and the show artwork.
-
 | ID | Name |
 | --- | ---- |
 | `daily-audio-bible` | Daily Audio Bible |
