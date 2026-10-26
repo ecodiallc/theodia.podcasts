@@ -45,3 +45,8 @@
 - `in-the-arena`: The debates and lectures of Dr. William Lane Craig on God and the resurrection, from [Reasonable Faith](https://www.reasonablefaith.org/); RSS at [Blubrry](https://feeds.blubrry.com/feeds/inthearena.xml).
 - `contending-for-truth`: Dr. Scott Johnson defending the Christian faith with Scripture and logic, from [Contending for Truth](https://www.contendingfortruth.com/); RSS at [contendingfortruth.com](https://www.contendingfortruth.com/feed/podcast).
 - `jimmy-akin-podcast`: Jimmy Akin on Catholic apologetics, from [Catholic Answers](https://www.catholic.com/tjap); RSS at [catholic.com](https://www.catholic.com/audio/tjap/podcast).
+
+### Download Theodia.app
+
+- [App Store](https://apps.apple.com/us/app/theodia/id6783143344)
+- [Google Play](https://play.google.com/store/apps/details?id=com.ecodia.theodia)
